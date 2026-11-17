@@ -1,0 +1,7209 @@
+[
+  {
+    "level": 1,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Gold",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Red",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      }
+    ]
+  },
+  {
+    "level": 5,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Gold",
+          "Blue",
+          "Red",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Emerald Green",
+          "Red",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Red",
+          "Blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Emerald Green",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 6,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Emerald Green",
+          "Purple",
+          "Gold",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Gold",
+          "Blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Red",
+          "Purple",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Gold",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 7,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Purple",
+          "Gold",
+          "Emerald Green",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Emerald Green",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Cyan blue",
+          "Red",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Gold",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Red",
+          "Cyan blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 8,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Emerald Green",
+          "Red",
+          "Blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Red",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Emerald Green",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Purple",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Gold",
+          "Purple",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Cyan blue",
+          "Blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 9,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Emerald Green",
+          "Blue",
+          "Emerald Green",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Orange",
+          "Red",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Orange",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Orange",
+          "Blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Purple",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Purple",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 10,
+    "special": true,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Gold",
+          "Blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Emerald Green",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 15,
+        "fixedReceiver": true,
+        "receiverColor": "Ivory",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Orange",
+          "Ivory",
+          "Blue",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Orange",
+          "Orange",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Emerald Green",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Ivory",
+          "Cyan blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Blue",
+          "Cyan blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Ivory",
+          "Ivory",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 11,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Red",
+          "Gold",
+          "Orange",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Blue",
+          "Gold",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Blue",
+          "Orange",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Cyan blue",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Cyan blue",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Red",
+          "Cyan blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Purple",
+          "Red",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 12,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Red",
+          "Purple",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Blue",
+          "Gold",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Cyan blue",
+          "Orange",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Red",
+          "Blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Purple",
+          "Orange",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Gold",
+          "Emerald Green",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Gold",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 13,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Cyan blue",
+          "Orange",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Emerald Green",
+          "Purple",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Cyan blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Purple",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Red",
+          "Cyan blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Gold",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Gold",
+          "Orange",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 14,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Gold",
+          "Emerald Green",
+          "Purple",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Cyan blue",
+          "Cyan blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Blue",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Emerald Green",
+          "Purple",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Blue",
+          "Cyan blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Purple",
+          "Emerald Green",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 15,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Red",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Purple",
+          "Red",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Emerald Green",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Orange",
+          "Orange",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Cyan blue",
+          "Cyan blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Emerald Green",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 16,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Gold",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Cyan blue",
+          "Orange",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Red",
+          "Red",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Cyan blue",
+          "Orange",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Orange",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Purple",
+          "Red",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Purple",
+          "Orange",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 17,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Blue",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Red",
+          "Cyan blue",
+          "Red",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Cyan blue",
+          "Purple",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Gold",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Red",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Blue",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Purple",
+          "Blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Purple"
+      }
+    ]
+  },
+  {
+    "level": 18,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Purple",
+          "Red",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Blue",
+          "Orange",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Orange",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Cyan blue",
+          "Red",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Purple",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Blue",
+          "Purple",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Emerald Green",
+          "Red",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 19,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Charcoal",
+          "Cyan blue",
+          "Red",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Emerald Green",
+          "Charcoal",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Charcoal",
+          "Ivory",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Gold",
+          "Orange",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Red",
+          "Blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Orange",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Ivory",
+          "Emerald Green",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Blue",
+          "Cyan blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Purple",
+          "Gold",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 20,
+    "special": true,
+    "bottles": [
+      {
+        "colors": [
+          "Red",
+          "Emerald Green",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Red",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Purple",
+          "Emerald Green",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Emerald Green",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Red",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 15,
+        "fixedReceiver": true,
+        "receiverColor": "Red",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Emerald Green",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Red",
+          "Gold",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Gold",
+          "Red",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Purple",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Gold",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 21,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Blue",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Ivory",
+          "Blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Purple",
+          "Charcoal",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Emerald Green",
+          "Red",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Orange",
+          "Gold",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Charcoal",
+          "Red",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Orange",
+          "Emerald Green",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Purple",
+          "Cyan blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Cyan blue",
+          "Ivory",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 22,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Gold"
+      },
+      {
+        "colors": [
+          "Red",
+          "Purple",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Gold"
+      }
+    ]
+  },
+  {
+    "level": 23,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Gold",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Cyan blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Red",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Purple",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Cyan blue"
+      }
+    ]
+  },
+  {
+    "level": 24,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Purple",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 25,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Cyan blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Gold",
+          "Purple",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Blue",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Blue"
+      }
+    ]
+  },
+  {
+    "level": 26,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Purple",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Cyan blue",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Emerald Green"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Emerald Green"
+      }
+    ]
+  },
+  {
+    "level": 27,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Purple",
+          "Emerald Green",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Cyan blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 28,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Blue",
+          "Red",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Purple",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Cyan blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 29,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Orange",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Purple",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Orange",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Purple",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 30,
+    "special": true,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Cyan blue",
+          "Cyan blue",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Ivory",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Emerald Green",
+          "Blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 15,
+        "fixedReceiver": true,
+        "receiverColor": "Ivory",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Ivory",
+          "Gold",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Ivory",
+          "Blue",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Blue",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Ivory",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      }
+    ]
+  },
+  {
+    "level": 31,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Emerald Green",
+          "Red",
+          "Orange",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Gold",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Emerald Green",
+          "Blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Gold",
+          "Cyan blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Ivory",
+          "Orange",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Emerald Green",
+          "Red",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Gold",
+          "Red",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Blue",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 32,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Ivory",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Purple",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Gold",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Ivory",
+          "Blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Emerald Green",
+          "Ivory",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Emerald Green",
+          "Cyan blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Cyan blue",
+          "Cyan blue",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 33,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Charcoal",
+          "Purple",
+          "Red",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Ivory",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Charcoal",
+          "Ivory",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Emerald Green",
+          "Emerald Green",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Charcoal",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Gold",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Orange",
+          "Blue",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Blue",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Orange",
+          "Charcoal",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Emerald Green",
+          "Purple",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Charcoal",
+          "Ivory",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 34,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Orange",
+          "Blue",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Charcoal",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Purple",
+          "Cyan blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Ivory",
+          "Cyan blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Charcoal",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Orange",
+          "Purple",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Gold",
+          "Red",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Orange",
+          "Blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Emerald Green",
+          "Emerald Green",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 35,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Purple",
+          "Ivory",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Emerald Green",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Cyan blue",
+          "Blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Gold",
+          "Red",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Gold",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Orange",
+          "Charcoal",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Cyan blue",
+          "Red",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 36,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Gold",
+          "Orange",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Charcoal",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Emerald Green",
+          "Gold",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Ivory",
+          "Charcoal",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Silver",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Ivory",
+          "Cyan blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Red",
+          "Charcoal",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Cyan blue",
+          "Red",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Ivory",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Ivory",
+          "Silver",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Charcoal",
+          "Silver",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Purple",
+          "Purple",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Emerald Green",
+          "Gold",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Orange",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 37,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Charcoal",
+          "Orange",
+          "Blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Gold",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Cyan blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Purple",
+          "Emerald Green",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Emerald Green",
+          "Blue",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Orange",
+          "Charcoal",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Red",
+          "Ivory",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Purple",
+          "Charcoal",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Blue",
+          "Cyan blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 38,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Gold",
+          "Emerald Green",
+          "Charcoal",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Ivory",
+          "Charcoal",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Red",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Silver",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Cyan blue",
+          "Purple",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Charcoal",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Gold",
+          "Emerald Green",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Purple",
+          "Ivory",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Orange",
+          "Red",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Silver",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Silver",
+          "Charcoal",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Cyan blue",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Silver",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 39,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Gold",
+          "Ivory",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Blue",
+          "Emerald Green",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Ivory",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Silver",
+          "Cyan blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Orange",
+          "Charcoal",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Gold",
+          "Orange",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Blue",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Silver",
+          "Red",
+          "Purple",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Cyan blue",
+          "Emerald Green",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Silver",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Emerald Green",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 40,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Silver",
+          "Blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Orange",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Emerald Green",
+          "Emerald Green",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Red",
+          "Emerald Green",
+          "Cyan blue",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Purple",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Silver",
+          "Silver",
+          "Silver",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Orange",
+          "Red",
+          "Charcoal",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Purple",
+          "Charcoal",
+          "Red",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      }
+    ]
+  },
+  {
+    "level": 41,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Silver",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Ivory",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Silver",
+          "Silver",
+          "Silver",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 42,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      }
+    ]
+  },
+  {
+    "level": 43,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 44,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Orange",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Silver",
+          "Silver",
+          "Silver",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 45,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Ivory",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Blue"
+      }
+    ]
+  },
+  {
+    "level": 46,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Emerald Green",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Silver",
+          "Silver",
+          "Silver",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Ivory"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Ivory"
+      }
+    ]
+  },
+  {
+    "level": 47,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Silver",
+          "Silver",
+          "Silver",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Orange",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Gold",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 48,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Purple",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Charcoal",
+        "noLockColor": "Cyan blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Cyan blue"
+      }
+    ]
+  },
+  {
+    "level": 49,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Emerald Green",
+          "Emerald Green",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Charcoal",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Silver",
+          "Silver",
+          "Silver",
+          "Charcoal"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Orange",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Ivory",
+          "Ivory",
+          "Ivory",
+          "Silver"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Cyan blue",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Orange"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Red",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Purple",
+          "Gold"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Cyan blue",
+          "Cyan blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": "Dark blue"
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Gold",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": true,
+        "unlockColor": "Ivory",
+        "noLockColor": "Dark blue"
+      }
+    ]
+  },
+  {
+    "level": 50,
+    "special": false,
+    "bottles": [
+      {
+        "colors": [
+          "Silver",
+          "Silver",
+          "Silver",
+          "Cyan blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Red",
+          "Red",
+          "Cyan blue",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Silver",
+          "Blue"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Purple",
+          "Purple",
+          "Emerald Green",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Empty",
+          "Empty",
+          "Empty",
+          "Empty"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Emerald Green",
+          "Ivory",
+          "Charcoal",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Orange",
+          "Orange",
+          "Charcoal",
+          "Ivory"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Charcoal",
+          "Charcoal",
+          "Cyan blue",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Blue",
+          "Blue",
+          "Blue",
+          "Red"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Gold",
+          "Gold",
+          "Orange",
+          "Emerald Green"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      },
+      {
+        "colors": [
+          "Cyan blue",
+          "Red",
+          "Orange",
+          "Purple"
+        ],
+        "capacity": 4,
+        "fixedReceiver": false,
+        "receiverColor": "",
+        "lockEnabled": false,
+        "unlockColor": "",
+        "noLockColor": ""
+      }
+    ]
+  }
+]
